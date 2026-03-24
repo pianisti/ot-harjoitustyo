@@ -1,10 +1,3 @@
-#Kortin saldo alussa oikein !!!
-#Rahan lataaminen kasvattaa saldoa oikein !!!
-#Rahan ottaminen toimii:
-#Saldo vähenee oikein, jos rahaa on tarpeeksi !!!
-#Saldo ei muutu, jos rahaa ei ole tarpeeksi !!!
-#Metodi palauttaa True, jos rahat riittivät ja muuten False
-
 import unittest
 from maksukortti import Maksukortti
 
